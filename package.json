@@ -11,6 +11,11 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
+    "@types/pg": "^8.10.2",
     "nuxt": "^3.7.3"
+  },
+  "dependencies": {
+    "kysely": "^0.26.3",
+    "pg": "^8.11.3"
   }
 }
