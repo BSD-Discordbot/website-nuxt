@@ -1,3 +1,0 @@
-[submodule "server/db"]
-	path = server/db
-	url = https://github.com/BSD-Discordbot/models
